@@ -1,0 +1,20 @@
+
+.logo {
+    font-size: 75px;
+    text-transform: uppercase;
+    color: yellow;
+    font-weight: 300;
+
+    
+}
+.header {
+    background-image: linear-gradient(to right, red , black);
+    text-align: center;
+    color: white;
+    padding: 55px 0;
+}
+.header h3 {
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 10px;
+}
